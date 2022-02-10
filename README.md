@@ -22,5 +22,6 @@ If you fuckin wit shader code you recognize I'm not the person to tell you this.
 ## License
 
 [MIT][license-url] © [Sander Melnikov][maintainer-url].
+
 [license-url]: https://github.com/sandydoo/flux/blob/main/LICENSE
 [maintainer-url]: https://github.com/sandydoo/
